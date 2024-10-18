@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	u "calculator/utils" //precede with package go.mod name
+	u "github.com/tatiananeda/calculator/utils" //precede with package go.mod name
 )
 
 func main() {
